@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.c1Font {
+  font-family: "Grape Nuts", cursive;
+}
+
+.thumbsUp {
+  color: blue;
+  font-size: 100px;
+}
+
+.thumbsDown {
+  color: purple;
+  font-size: 150px;
+}
+
+.bed {
+  color: green;
+  font-size: 125px;
+}
